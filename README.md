@@ -8,6 +8,12 @@ A comprehensive collection of llms.txt implementations and resources for LLM-pow
 
 </div>
 
+## Start with the data
+
+Use the [credential-free directory quickstart](QUICKSTART.md) to read the
+committed catalog immediately. This fork preserves upstream attribution in
+[NOTICE.md](NOTICE.md).
+
 ## About
 
 The `llms.txt` file is a standardized way to provide information about how LLM-powered tools and services should interact with your documentation and codebase. This repository serves as a central hub for discovering and sharing `llms.txt` implementations across different projects and platforms.
